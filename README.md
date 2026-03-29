@@ -57,6 +57,3 @@ Example compile command:
 
 ```powershell
 g++ -std=c++20 .\01_welcome_sum.cpp -o .\01_welcome_sum
-```
-
-If you want, I can also create a second folder later with full solutions in the same professor style.
